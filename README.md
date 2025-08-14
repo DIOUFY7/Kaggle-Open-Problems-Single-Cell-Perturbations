@@ -1,2 +1,13 @@
+#Mamadou DIOUF 
+
+#Independant data scientist
+
 # Kaggle-Open-Problems-Single-Cell-Perturbations
 The goal of this competition is to predict how small molecules change gene expression in different cell types.
+
+I won 227 on private leadboard and my score was 0.789 and the first had as score 0.729.
+
+But I had not time to submit my work to the jury. 
+
+I did my work with google colab and Kaggle.
+
