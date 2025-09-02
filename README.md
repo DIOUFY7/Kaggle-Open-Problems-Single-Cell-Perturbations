@@ -16,11 +16,12 @@ I did my work with google colab and Kaggle.
 I used:
 
 RegressorChain,MultiOutputRegresso with LGBMregressor, BayesianRidge
-CNN, Resnet, MLPregressor, randomforest, 
+CNN, Resnet, MLPregressor, randomforest, deep neural network 
 
 Tpot Stackingestimator, tpotregressor
 
-kernalPCA
+kernalPCA, TruncatedSVD
+
 
 Combine models
 
