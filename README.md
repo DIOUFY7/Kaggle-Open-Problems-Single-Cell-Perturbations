@@ -13,3 +13,14 @@ But I had not time to submit my work to the jury.
 
 I did my work with google colab and Kaggle.
 
+I used:
+
+RegressorChain,MultiOutputRegresso with LGBMregressor, BayesianRidge
+CNN, Resnet, MLPregressor, randomforest, 
+
+Tpot Stackingestimator, tpotregressor
+
+kernalPCA
+
+Combine models
+
