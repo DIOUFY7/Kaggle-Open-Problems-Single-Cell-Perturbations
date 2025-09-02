@@ -21,7 +21,7 @@ CNN, Resnet, MLPregressor, randomforest, deep neural network
 Tpot Stackingestimator, tpotregressor
 
 kernalPCA, TruncatedSVD
-
+keras, tensorflow
 
 Combine models
 
